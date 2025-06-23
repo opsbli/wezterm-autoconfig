@@ -7,7 +7,7 @@
 本项目提供了一个全自动的脚本，用于配置和我一样的终端环境，其中包含各种工具和设置。
 我提供了一种简单的方法，让你可以快速配置出像下图一样效果的终端。
 
-<img src="https://github.com/riverify/weztern-autoconfig/blob/main/img/jetpack.png?raw=true">
+<img src="https://github.com/opsbli/weztern-autoconfig/blob/main/img/jetpack.png?raw=true">
 
 ## 功能
 
@@ -36,7 +36,7 @@
 
 1. 在终端中运行以下命令：
     ```sh
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/wezterm-autoconfig/main/autoconfig_curl.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/opsbli/wezterm-autoconfig/main/autoconfig_curl.sh)"
     ```
 2. 脚本将自动配置你的环境。
 3. 如果遇到任何问题，请通过创建 issue 告诉我。
@@ -45,7 +45,7 @@
 
 1. 克隆仓库：
     ```sh
-    git clone https://github.com/riverify/wezterm-autoconfig.git
+    git clone https://github.com/opsbli/wezterm-autoconfig.git
     cd wezterm-autoconfig
     ```
 
